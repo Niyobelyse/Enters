@@ -1,0 +1,1 @@
+web:gunicorn entrepreneurs.wsgi --log-file -
